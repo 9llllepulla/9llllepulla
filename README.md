@@ -10,11 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=9llllepulla&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9llllepulla&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=tokyonight" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9llllepulla&show_icons=true&include_all_commits=true&theme=tokyonight" alt="9llllepulla's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 
 Связаться со мной в telegram: @gILLLepuLLa
