@@ -1,6 +1,6 @@
 ### :hammer_and_wrench: Tech :
 
-<div style="backgroung-color:white>
+<div style="backgroung-color: white; width: 100px; height: 100px; position: absolute; >top: 50px; left: 20px;>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Redux " width="40" height="40"/>&nbsp;
