@@ -10,6 +10,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=9llllepulla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Связаться со мной в telegram: @gILLLepuLLa
