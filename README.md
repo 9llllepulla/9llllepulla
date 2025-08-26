@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9llllepulla&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="My github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=vision-friendly-dark" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9llllepulla&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="My github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 
 Связаться со мной в telegram: @gILLLepuLLa
