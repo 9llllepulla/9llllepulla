@@ -13,8 +13,4 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9llllepulla&show_icons=true&theme=tokyonight" alt="9llllepulla's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9llllepulla&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 
-Связаться со мной 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/telegram/telegram-original-wordmark.svg" title="Telegram" **alt="Telegram" width="40" height="40"/>
-</div>
 telegram: @gILLLepuLLa
